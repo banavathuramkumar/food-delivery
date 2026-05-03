@@ -109,7 +109,7 @@ This project uses modern web technologies:
 Full Stack Developer (MERN)
 
 - **LinkedIn:** https://www.linkedin.com/in/banavathu-ramkumar-b55bbb33a/
-- **GitHub:** https://github.com/AP24110010769
+- **GitHub:** https://github.com/banavathuramkumar
 
 ## Feedback
 
